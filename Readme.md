@@ -12,12 +12,28 @@ Grama-Sanjeevini is a dedicated Android application designed to bridge the healt
 <br>
 ## 📱 App Interface
 
-| Login / Signup | Villager Search | Pharmacist Home |
-| :---: | :---: | :---: |
-| <img src="screenshots/Login_signup%20page.jpeg" width="250"/> | <img src="screenshots/Villager(search%20medicine%20tab).jpeg" width="250"/> | <img src="screenshots/Pharmacist%20home%20page.jpeg" width="250"/> |
+<table>
+  <tr>
+    <th align="center">Login / Signup</th>
+    <th align="center">Villager Search</th>
+    <th align="center">Pharmacist Home</th>
+  </tr>
+  <tr>
+    <td valign="top" align="center"><img src="screenshots/Login_signup%20page.jpeg" width="250"/></td>
+    <td valign="top" align="center"><img src="screenshots/Villager(search%20medicine%20tab).jpeg" width="250"/></td>
+    <td valign="top" align="center"><img src="screenshots/Pharmacist%20home%20page.jpeg" width="250"/></td>
+  </tr>
+</table>
 
-| Pharmacist Inventory | Admin Dashboard | |
-| :---: | :---: | :---: |
-| <img src="screenshots/Pharmacist%20inventory.jpeg" width="250"/> | <img src="screenshots/Admin%20dashboard.jpeg" width="250"/> | |
+<table>
+  <tr>
+    <th align="center">Pharmacist Inventory</th>
+    <th align="center">Admin Dashboard</th>
+  </tr>
+  <tr>
+    <td valign="top" align="center"><img src="screenshots/Pharmacist%20inventory.jpeg" width="250"/></td>
+    <td valign="top" align="center"><img src="screenshots/Admin%20dashboard.jpeg" width="250"/></td>
+  </tr>
+</table>
 
 <br>
