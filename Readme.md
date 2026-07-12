@@ -19,9 +19,9 @@ Grama-Sanjeevini is a dedicated Android application designed to bridge the healt
     <th align="center">Pharmacist Home</th>
   </tr>
   <tr>
-    <td valign="top" align="center"><img src="screenshots/Login_signup%20page.jpeg" width="250"/></td>
-    <td valign="top" align="center"><img src="screenshots/Villager(search%20medicine%20tab).jpeg" width="250"/></td>
-    <td valign="top" align="center"><img src="screenshots/Pharmacist%20home%20page.jpeg" width="250"/></td>
+    <td align="center"><img src="screenshots/Login_signup%20page.jpeg" width="220" height="480"/></td>
+    <td align="center"><img src="screenshots/Villager(search%20medicine%20tab).jpeg" width="220" height="480"/></td>
+    <td align="center"><img src="screenshots/Pharmacist%20home%20page.jpeg" width="220" height="480"/></td>
   </tr>
 </table>
 
@@ -31,8 +31,8 @@ Grama-Sanjeevini is a dedicated Android application designed to bridge the healt
     <th align="center">Admin Dashboard</th>
   </tr>
   <tr>
-    <td valign="top" align="center"><img src="screenshots/Pharmacist%20inventory.jpeg" width="250"/></td>
-    <td valign="top" align="center"><img src="screenshots/Admin%20dashboard.jpeg" width="250"/></td>
+    <td align="center"><img src="screenshots/Pharmacist%20inventory.jpeg" width="220" height="480"/></td>
+    <td align="center"><img src="screenshots/Admin%20dashboard.jpeg" width="220" height="480"/></td>
   </tr>
 </table>
 
