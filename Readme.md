@@ -37,3 +37,28 @@ Grama-Sanjeevini is a dedicated Android application designed to bridge the healt
 </table>
 
 <br>
+## 🏗️ System Architecture
+
+```mermaid
+graph TD
+    subgraph Client App [Android UI]
+        V[Villager Dashboard]
+        P[Pharmacist Hub]
+        A[Admin Panel]
+    end
+
+    subgraph Firebase Backend
+        Auth[Firebase Authentication]
+        DB[(Cloud Firestore)]
+        Storage[Cloud Storage]
+    end
+
+    V -->|Login/Sign Up| Auth
+    P -->|Login/Sign Up| Auth
+    A -->|Secure Login| Auth
+
+    V -->|Read Stock & Send Request| DB
+    P -->|Write Inventory & Accept Request| DB
+    A -->|Audit Logs & Verify Shops| DB
+
+    P -->|Upload Shop Credentials| Storage
