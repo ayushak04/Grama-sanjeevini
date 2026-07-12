@@ -10,3 +10,14 @@ Grama-Sanjeevini is a dedicated Android application designed to bridge the healt
 * **🤝 Community Trust System:** A two-way, 5-star rating and post-request feedback loop to ensure accountability and reliability.
 
 <br>
+## 📱 App Interface
+
+| Login_signup page | Pharmacist home page | Pharmacist Inventory |
+| :---: | :---: | :---: |
+| <img src="screenshots/Login_signup page.png" width="250"/> | <img src="screenshots/Pharmacist home page.png" width="250"/> | <img src="screenshots/03_pharmacist_inventory.png" width="250"/> |
+
+| Admin Verification | Community Feedback | |
+| :---: | :---: | :---: |
+| <img src="screenshots/04_admin_verification.png" width="250"/> | <img src="screenshots/Villager(search medicine tab).png" width="250"/> | |
+
+<br>
