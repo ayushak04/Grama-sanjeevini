@@ -234,12 +234,10 @@ app
 ---
 
 # 📌 Future Improvements
-
-- Strong Firestore Security Rules
-- Role-based Access Control
+- Admin Analytics dashboard
+- Notification alert system for Emergency medicines 
 - Offline Room Database
 - Google Maps Integration
-- Push Notifications
 - Image Upload
 - Better Analytics
 
